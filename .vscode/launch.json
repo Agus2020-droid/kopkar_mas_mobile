@@ -1,0 +1,32 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "kopkar_mas_app",
+            "request": "launch",
+            "deviceId": "2201117TY",
+            "type": "dart"
+        },
+        // {
+        //     "name": "kopkar_mas_app",
+        //     "request": "launch",
+        //     "deviceId": "Edge",
+        //     "type": "dart"
+        // },
+        {
+            "name": "kopkar_mas_app (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "kopkar_mas_app (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
